@@ -1,0 +1,21 @@
+{
+  "name": "osint-vuln-scan-cli",
+  "version": "1.0.0",
+  "description": "Cybersecurity OSINT & static code vulnerability scanner CLI",
+  "type": "module",
+  "bin": {
+    "osint-vuln-scan": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "cybersecurity",
+    "osint",
+    "vulnerability",
+    "scanner",
+    "cli"
+  ],
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
